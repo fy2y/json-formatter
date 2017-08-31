@@ -1,4 +1,5 @@
-<img src="/assets/json-formatter.png" width="100" height="100" />
+# Logo
+<img src="/assets/json-formatter.png" width="150" height="150" />
 
 # About
 Chrome Extension
