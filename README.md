@@ -1,4 +1,4 @@
-![json formatter](./assets/json-formatter.png)
+![json formatter](/assets/json-formatter.png)
 
 # About
 Chrome Extension
