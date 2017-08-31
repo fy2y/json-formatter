@@ -1,0 +1,24 @@
+{
+  "name": "JSON Formatter",
+  "author": "fewspider@gmail.com",
+  "description": "JSON Formatter",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["/src/js/main.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "JSON Formatter",
+    "default_icon": "/assets/json-formatter.png",
+    "default_popup": "/src/html/main.html"
+  },
+  "icons": {
+    "16": "/assets/json-formatter.16.png",
+    "48": "/assets/json-formatter.48.png",
+    "128": "/assets/json-formatter.128.png"
+  },
+  "manifest_version": 2
+}
