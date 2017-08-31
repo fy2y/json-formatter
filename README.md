@@ -1,4 +1,4 @@
-![json formatter](/assets/json-formatter.png {height="50px" width="50px"})
+<img src="/assets/json-formatter.png" width="100" height="100" />
 
 # About
 Chrome Extension
