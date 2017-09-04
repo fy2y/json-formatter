@@ -7,13 +7,13 @@
     "activeTab"
   ],
   "background": {
-    "scripts": ["/src/js/main.js"],
+    "scripts": ["/js/main.js"],
     "persistent": false
   },
   "browser_action": {
     "default_title": "JSON Formatter",
     "default_icon": "/assets/json-formatter.png",
-    "default_popup": "/src/html/main.html"
+    "default_popup": "/main.html"
   },
   "icons": {
     "16": "/assets/json-formatter.16.png",

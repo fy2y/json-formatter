@@ -1,0 +1,45 @@
+html, body {
+  background: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+*:focus {
+  outline:0;
+}
+
+.main {
+  margin: 6px 8px;
+}
+
+.format-content {
+  font-size: 0px;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+
+  textarea {
+    width: 100%;
+    border: 0px;
+    font-size: 18px;
+    resize: none;
+  }
+
+  .format-source {
+    display: inline-flex;
+    width: 400px;
+    height: 400px;
+    textarea {
+      background: #FFFEB3;
+    }
+  }
+
+  .format-result {
+    display: inline-flex;
+    width: 400px;
+    height: 400px;
+    textarea {
+      background: #99CCFF;
+    }
+  }
+}
